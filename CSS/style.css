@@ -1,0 +1,7 @@
+img {width: 60%;border: 20px solid lightgreen; margin: 20px 20px 20px 20px;}
+body {text-align: center; background-color: lightsalmon }
+div {text-align: left; margin-left: 250px;}
+ul {font-size: 25px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: lightgreen;}
+ol {font-size: 25px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: purple;}
+a {font-size: 25px; font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; color: purple; margin: 10% 10% 10% 10%;}
+span {border: 5px dashed lightgreen; background-color: lightgoldenrodyellow;}
